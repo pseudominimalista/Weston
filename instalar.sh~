@@ -1,0 +1,13 @@
+#!/bin/sh
+yay -Syu weston brightnessctl pulsemixer vim imv foot emacs librewolf-bin wl-clipboard cmus mpv yt-dlp acpi \
+	ttf-jetbrains-mono adobe-source-han-sans-jp-fonts udisks2 catppuccin-cursors-mocha &&
+
+cp -r .config/ ~/
+cp -r .local/ ~/
+cp -r .librewolf/ ~/
+cp -r .emacs.d ~/
+cp .vimrc ~/
+cp .bash* ~/
+cp .wp ~/
+mkdir ~/Vídeos
+mkdir ~/Imagens

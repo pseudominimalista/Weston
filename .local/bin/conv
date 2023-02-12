@@ -1,0 +1,6 @@
+#!/bin/sh
+wcap-decode --yuv4mpeg2 ~/capture.wcap > ~/capture.y4m
+rm ~/*.wcap
+cvrt ~/*.y4m mp4
+mv ~/*.mp4 ~/Vídeos/
+rm ~/*.y4m

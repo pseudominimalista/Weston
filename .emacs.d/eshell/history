@@ -1,0 +1,18 @@
+ls
+ls emojis/
+ls url/
+nitch 
+ls
+cd ..
+clear
+ls
+ls Músicas/
+cp -r .emacs.d/ /run/media/john/Ventoy/weston/
+du -h .emacs.d/
+ls	
+exit
+udisksctl mount --block-device /dev/sda1
+cd /run/media/john/Ventoy/setups/
+cd emacs/
+vim instalar.sh 
+exit
