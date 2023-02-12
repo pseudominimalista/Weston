@@ -10,7 +10,7 @@ a pure Arch install, maybe it will work fine, you'll only need Yay installed for
 Sorry about that, but it is what it is and i'm not gonna change it that soon.
 - Weston is a **UNUSABLE** Compositor with a pretty face, unless you only need a few apps, I recommend you use Sway instead of it,  
 [here's my Sway repo if you are interested](https://github.com/pseudominimalista/Sway)  
-- Yes, it has a emacs config.  
+- Yes, it has a emacs config. Yes, it's probably broken. Sorry, i'll try to fix it if that's the case.  
 
 # Catppuccin go brrrrr  
 ![TO MUCH CATPPUCCIN](preview.png)
